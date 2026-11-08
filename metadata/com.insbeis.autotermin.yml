@@ -1,0 +1,20 @@
+Categories:
+  - Utilities
+  - Money
+License: MIT
+WebSite: https://github.com/InsBeis/AutoTermin
+SourceCode: https://github.com/InsBeis/AutoTermin
+IssueTracker: https://github.com/InsBeis/AutoTermin/issues
+
+Builds:
+  - versionName: '1.0.1'
+    versionCode: 1
+    commit: v1.0.1
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0.1'
+CurrentVersionCode: 1
