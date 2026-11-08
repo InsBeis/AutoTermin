@@ -1,0 +1,10 @@
+Wygodne narzędzie do kompleksowego zarządzania pojazdami, terminami i kosztami napraw.
+
+AutoTermin to nowoczesna aplikacja mobilna stworzona w technologii Jetpack Compose, która pomaga w pełni kontrolować stan techniczny i formalny Twoich pojazdów. 
+
+Główne funkcje:
+• Zarządzanie flotą pojazdów – obsługa samochodów, motocykli czy przyczep.
+• Monitorowanie terminów – kontrola ważności ubezpieczeń OC/AC, badań technicznych i wymiany opon.
+• Dziennik napraw i wizyt – zapisywanie wizyt w warsztatach, monitorowanie kosztów w różnych walutach.
+• Raporty PDF – generowanie i udostępnianie szczegółowych raportów z historii napraw.
+• Cyfrowe archiwum dokumentów – bezpieczne przechowywanie faktur i polis.
