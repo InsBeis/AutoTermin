@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.autotermin"
+    namespace = "com.insbeis.autotermin"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.autotermin"
+        applicationId = "com.insbeis.autotermin"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

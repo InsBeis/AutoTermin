@@ -5067,6 +5067,7 @@ fun DialogFormularzAuta(
         R.drawable.hatchback1, R.drawable.hatchback2, R.drawable.hatchback3,
         R.drawable.kombi1, R.drawable.kombi2, R.drawable.kombi3,
         R.drawable.van1, R.drawable.van2, R.drawable.van3,
+        R.drawable.moto1, R.drawable.moto2, R.drawable.moto3,
         R.drawable.przyczepka1, R.drawable.przyczepka2, R.drawable.przyczepka3
     )
 
