@@ -1,4 +1,4 @@
-package com.example.autotermin
+package com.insbeis.autotermin
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
