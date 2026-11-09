@@ -1,4 +1,4 @@
-package com.example.autotermin
+package com.insbeis.autotermin
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.basicMarquee
